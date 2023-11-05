@@ -21,6 +21,7 @@ So, this tool convert scale 0 to 1.
 ## Dependency
 * numpy
 * onnx
+* onnxruntime
 * [onnx-graphsurgeon](https://github.com/NVIDIA/TensorRT/tree/main/tools/onnx-graphsurgeon)
 
 ## Installation
