@@ -23,6 +23,7 @@ setup(
     install_requires=[
         'numpy',
         'onnx',
+        'onnxruntime',
         'onnx-graphsurgeon',
     ],
     extras_require={

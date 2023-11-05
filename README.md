@@ -25,7 +25,7 @@ So, this tool convert scale 0 to 1.
 
 ## Installation
 ```bash
-pip3 install numpy onnx
+pip3 install numpy onnx onnxruntime
 pip3 install onnx_graphsurgeon --index-url https://pypi.ngc.nvidia.com
 pip3 install git+https://github.com/maminus/qdqonnx_scale_0to1.git
 ```
